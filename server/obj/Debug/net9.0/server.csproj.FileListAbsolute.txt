@@ -13,3 +13,18 @@ C:\Работы студентов\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\
 C:\Работы студентов\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\server.pdb
 C:\Работы студентов\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\server.genruntimeconfig.cache
 C:\Работы студентов\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\ref\server.dll
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\bin\Debug\net9.0\server.exe
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\bin\Debug\net9.0\server.deps.json
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\bin\Debug\net9.0\server.runtimeconfig.json
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\bin\Debug\net9.0\server.dll
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\bin\Debug\net9.0\server.pdb
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\server.AssemblyInfoInputs.cache
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\server.AssemblyInfo.cs
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\server.sourcelink.json
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\server.dll
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\refint\server.dll
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\server.pdb
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\server.genruntimeconfig.cache
+C:\Users\Kosmos\Lab4_ISRPO_Tkachenko\server\obj\Debug\net9.0\ref\server.dll
